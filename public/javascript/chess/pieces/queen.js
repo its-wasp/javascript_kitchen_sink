@@ -1,5 +1,3 @@
-queen.js : 
-
 
 var Queen = function(config, board) {
     this.type = 'queen';
